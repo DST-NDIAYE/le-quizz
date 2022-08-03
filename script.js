@@ -77,7 +77,7 @@ form.addEventListener('submit', (e) => {
         else {
 
             bloque_de_question[i].classList.remove('echec');
-            bloque_de_question[i].style.backgroundColor = 'pink';
+            bloque_de_question[i].style.backgroundColor = 'green';
 
         }
 
